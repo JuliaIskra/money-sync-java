@@ -1,0 +1,13 @@
+# MoneySync application
+
+## How to run
+1) Run using Maven:
+    
+    `mvn spring-boot:run`
+
+2) Build jar file and run it:
+
+    `mvn clean package`
+    
+    `java -jar target/money-sync-*.jar`
+    
